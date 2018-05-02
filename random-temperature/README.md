@@ -1,1 +1,1 @@
-A program that generates random temperatures for each hour of a 30 day month and then prints the average temperature of the month.
+A program that prompts the user to enter a maximum temperature experienced in a month, and then guesses the average temperature of the month by generating random temperatures between the maximum temperature the user entered, assigning these values to the hours of the days in the month, and then finding the daily mean temperatures and then the monthly mean temperature.
